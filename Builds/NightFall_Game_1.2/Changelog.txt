@@ -1,0 +1,9 @@
+1.1:
+Added in time to next shot on Gui
+Fixed a bug meaning the time to next shot was based on attempts to fire not time
+Added in a delay to restart game after death to stop instantly restarting accidentally.
+1.2:
+Added shotgun.  8 pellets, limited range.
+Added rocket launcher.  Limted range.  Explosion.  Instant kill.
+Added grenade.  Explodes after 2 seconds.  Kills in area.  Only has two.
+Added Knife.  Insta kill at close range.
